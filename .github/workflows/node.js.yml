@@ -42,4 +42,4 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: HAFSA156/imagesrepository:latest
+        tags: hafsa156/imagesrepository:latest
